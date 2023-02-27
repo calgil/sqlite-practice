@@ -23,22 +23,22 @@ We will also need to create some entries in these tables:
 
 1. Users
 
-   - Create a user named Jon Higgz, who's life motto is "I love coding".
-   - Create a user named Andrey Rusterton, who's life motto is "I love coding even more".
-   - Create a user named Peter Garboni, who's life motto is "I love coding even more".
+   - 1 Create a user named Jon Higgz, who's life motto is "I love coding".
+   - 2 Create a user named Andrey Rusterton, who's life motto is "I love coding even more".
+   - 3 Create a user named Peter Garboni, who's life motto is "I love coding even more".
 
 2. Dogs
 
-   - Create a dog named DOOMSLAYER
-   - Create a dog named Zoey
-   - Create a dog named Jefferey
+   - 1 Create a dog named DOOMSLAYER
+   - 2 Create a dog named Zoey
+   - 3 Create a dog named Jefferey
 
 3. Favorites
-   - Peter Favorites Doomslayer
-   - Jon Favorites Doomslayer
-   - Andrey Favorites Doomslayer
-   - Jon Favorites Jefferey
-   - Andrey favorites Zoey
+   - Peter Favorites Doomslayer 3 1
+   - Jon Favorites Doomslayer 1 1
+   - Andrey Favorites Doomslayer 2 1
+   - Jon Favorites Jefferey 1 3
+   - Andrey favorites Zoey 2 2
 
 Go ahead and run `npx jest part1 --watch`. You will need to create a `main.db` and change it via your `sqlite` command on your terminal. As you begin to setup your database you should notice that the tests will respond to the changes if you rerun it.
 
