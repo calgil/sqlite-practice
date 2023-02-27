@@ -38,3 +38,6 @@ INSERT INTO favorites (user_id, dog_id)
 VALUES(1, 3);
 INSERT INTO favorites (user_id, dog_id)
 VALUES(2, 2);
+SELECT *
+FROM dogs
+WHERE name = "DOOMSLAYER";
