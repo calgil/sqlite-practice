@@ -2,4 +2,4 @@
 -- Change the query to pass the test :)
 SELECT name
 FROM dogs
-ORDER BY name;
+ORDER BY name DESC;
